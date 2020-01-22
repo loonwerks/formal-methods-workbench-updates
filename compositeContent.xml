@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?compositeMetadataRepository version='1.0.0'?>
+<repository name='&quot;Eclipse Project Test Site&quot;'
+    type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.timestamp' value='1243822504000'/>
+  </properties>
+  <children size='4'>
+    <child location='https://raw.githubusercontent.com/loonwerks/AGREE-Updates/master/'/>
+    <child location='https://raw.githubusercontent.com/loonwerks/Resolute-Updates/master/'/>
+    <child location='https://raw.githubusercontent.com/loonwerks/jkind-plugin/master/compositeRepository/'/>
+    <child location='https://raw.githubusercontent.com/loonwerks/z3-plugin/master/com.collins.trustedsystems.z3.updates/target/repository/'/>
+  </children>
+</repository>
