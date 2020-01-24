@@ -32,6 +32,11 @@ computational functions in Resolute annex libraries, i.e., Resolute
 annex clauses placed directly in an AADL package. The verification
 results are then displayed in a view labeled Assurance Case.
 
+## BriefCASE
+
+BriefCASE is a collection formal system modeling and transformation
+tools supporting and developed by the DARPA CASE program.
+
 ## JKind Model Checker Plug-in
 
 Packages the [JKind](https://github.com/agacek/jkind) model checker

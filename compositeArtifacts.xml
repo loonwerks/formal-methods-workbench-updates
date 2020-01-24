@@ -3,11 +3,12 @@
 <repository name='&quot;Eclipse Project Test Site&quot;'
     type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1243822504000'/>
+    <property name='p2.timestamp' value='1243822505000'/>
   </properties>
-  <children size='4'>
+  <children size='5'>
     <child location='https://raw.githubusercontent.com/loonwerks/AGREE-Updates/master/'/>
     <child location='https://raw.githubusercontent.com/loonwerks/Resolute-Updates/master/'/>
+    <child location='https://raw.githubusercontent.com/loonwerks/BriefCASE-Updates/master/'/>
     <child location='https://raw.githubusercontent.com/loonwerks/jkind-plugin/master/compositeRepository/'/>
     <child location='https://raw.githubusercontent.com/loonwerks/z3-plugin/master/com.collins.trustedsystems.z3.updates/target/repository/'/>
   </children>
