@@ -32,6 +32,26 @@ computational functions in Resolute annex libraries, i.e., Resolute
 annex clauses placed directly in an AADL package. The verification
 results are then displayed in a view labeled Assurance Case.
 
+## Safety Analysis
+
+The Safety Annex for the Architecture Analysis and Design Language (AADL)
+provides the ability to reason about faults and faulty component behaviors in
+AADL models. In the Safety Annex approach, we use formal assume-guarantee
+contracts to define the nominal behavior of system components. The nominal
+model is then verified using the Assume Guarantee Reasoning Environment
+(AGREE). The Safety Annex provides a way to weave faults into the nominal
+system model and analyze the behavior of the system in the presence of faults.
+We also providea library of common faultnode definitions that is customizable
+to the needs of system and safety engineers.  The Safety Annex supports model
+checking and quantitative reasoning by attaching behavioral faults to
+components and then using the normal behavioral propagation and proof
+mechanisms built into the AGREE AADL annex. This allows users to reason about
+the evolution of faults over time, and produce counterexamples demonstrating
+how component faults lead to system failures. It can serve as the shared model
+to capture system design and safety-relevant information, and produce both
+qualitative and quantitative description of the causal relationship between
+faults/failures and system safety requirements.
+
 ## BriefCASE
 
 BriefCASE is a collection formal system modeling and transformation
