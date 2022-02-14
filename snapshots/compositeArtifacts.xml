@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?compositeArtifactRepository version='1.0.0'?>
-<repository name='&quot;Eclipse Project Test Site&quot;'
+<repository name='&quot;Formal Methods Workbench Update Site&quot;'
     type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1614614897562'/>
+    <property name='p2.timestamp' value='1644851187745'/>
   </properties>
   <children size='5'>
     <child location='http://ca-trustedsystems-dev-us-east-1.s3-website-us-east-1.amazonaws.com/p2/snapshots/jkind-plugin/'/>

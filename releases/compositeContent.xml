@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?compositeMetadataRepository version='1.0.0'?>
-<repository name='&quot;Eclipse Project Test Site&quot;'
+<repository name='&quot;Formal Methods Workbench Update Site&quot;'
     type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1601402326000'/>
+    <property name='p2.timestamp' value='1644851187745'/>
   </properties>
   <children size='6'>
     <child location='https://raw.githubusercontent.com/loonwerks/AGREE-Updates/master/'/>
@@ -11,6 +11,6 @@
     <child location='https://raw.githubusercontent.com/loonwerks/AMASE/master/safety-update-site/'/>
     <child location='https://raw.githubusercontent.com/loonwerks/BriefCASE-Updates/master/'/>
     <child location='https://raw.githubusercontent.com/loonwerks/jkind-plugin/master/compositeRepository/'/>
-    <child location='https://raw.githubusercontent.com/loonwerks/z3-plugin/master/com.collins.trustedsystems.z3.updates/target/repository/'/>
+    <child location='https://raw.githubusercontent.com/loonwerks/z3-plugin-updates/master/'/>
   </children>
 </repository>
