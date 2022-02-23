@@ -8,7 +8,7 @@
   <children size='6'>
     <child location='https://raw.githubusercontent.com/loonwerks/AGREE-Updates/master/'/>
     <child location='https://raw.githubusercontent.com/loonwerks/Resolute-Updates/master/'/>
-    <child location='https://raw.githubusercontent.com/loonwerks/AMASE/master/safety-update-site/'/>
+    <child location='https://raw.githubusercontent.com/loonwerks/AMASE-Updates/master/'/>
     <child location='https://raw.githubusercontent.com/loonwerks/BriefCASE-Updates/master/'/>
     <child location='https://raw.githubusercontent.com/loonwerks/jkind-plugin/master/compositeRepository/'/>
     <child location='https://raw.githubusercontent.com/loonwerks/z3-plugin-updates/master/'/>
