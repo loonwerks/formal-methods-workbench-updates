@@ -3,13 +3,13 @@
 <repository name='&quot;Formal Methods Workbench Update Site&quot;'
     type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1644851187745'/>
+    <property name='p2.timestamp' value='1725379489422'/>
   </properties>
   <children size='5'>
     <child location='http://ca-trustedsystems-dev-us-east-1.s3-website-us-east-1.amazonaws.com/p2/snapshots/jkind-plugin/'/>
-    <child location='http://ca-trustedsystems-dev-us-east-1.s3-website-us-east-1.amazonaws.com/p2/snapshots/agree/'/>
-    <child location='http://ca-trustedsystems-dev-us-east-1.s3-website-us-east-1.amazonaws.com/p2/snapshots/resolute/'/>
-    <child location='http://ca-trustedsystems-dev-us-east-1.s3-website-us-east-1.amazonaws.com/p2/snapshots/briefcase/'/>
+    <child location='https://raw.githubusercontent.com/loonwerks/AGREE-Updates/master/snapshots/'/>
+    <child location='https://raw.githubusercontent.com/loonwerks/Resolute-Updates/master/snapshots/'/>
+    <child location='https://raw.githubusercontent.com/loonwerks/BriefCASE-Updates/master/snapshots/'/>
     <child location='http://ca-trustedsystems-dev-us-east-1.s3-website-us-east-1.amazonaws.com/p2/snapshots/amase/'/>
   </children>
 </repository>
